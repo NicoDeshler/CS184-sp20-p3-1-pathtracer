@@ -1,4 +1,4 @@
-The project write-up is at [Project 1: Pathtracer Pt 1 Write-Up](https://nicodeshler.github.io/CS184-sp20-p3-1-pathtracer/)
+The project write-up is at [Project 3: Pathtracer Pt 1 Write-Up](https://nicodeshler.github.io/CS184-sp20-p3-1-pathtracer/)
 
 
 <p style="text-align:center">
